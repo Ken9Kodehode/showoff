@@ -10,4 +10,6 @@ Akkurat nå har jeg satt opp 4 linker pr person, du må ikke bruke alle
 ## Link til live prosjekt!
 https://ken9kodehode.github.io/showoff/
 
+
+## Bilde av showoff live
 ![trololo](https://user-images.githubusercontent.com/98322694/161970003-30121a71-2e76-4ef2-a6ba-fd3dbebe53ab.png)
